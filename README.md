@@ -1,1 +1,2 @@
-# algodea-docs
+# Initial page
+
