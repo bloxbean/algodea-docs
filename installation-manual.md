@@ -1,6 +1,6 @@
 # Installation - Manual
 
-## Download algoDEA plugin binary 
+## Download algoDEA plugin binary
 
 Download latest version of algoDEA plugin zip file from[ https://github.com/bloxbean/algodea/releases](https://github.com/bloxbean/algodea/releases)
 
@@ -8,8 +8,6 @@ Download latest version of algoDEA plugin zip file from[ https://github.com/blox
 
 * Start IntelliJ IDEA \(2020.2 and above\)
 * Select Configure &gt; Plugins
-
- 
 
 ![](.gitbook/assets/manual-install-select-plugin%20%281%29.png)
 
@@ -22,4 +20,6 @@ Download latest version of algoDEA plugin zip file from[ https://github.com/blox
 ![](.gitbook/assets/manual-install-restart-ide.png)
 
 ### Video
-[![algoDEA - Manual Installation](https://img.youtube.com/vi/jjhEu-gjjhE/0.jpg)](https://youtu.be/jjhEu-gjjhE)
+
+![algoDEA - Manual Installation](https://img.youtube.com/vi/jjhEu-gjjhE/0.jpg)
+
