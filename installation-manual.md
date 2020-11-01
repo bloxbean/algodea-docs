@@ -21,3 +21,4 @@ Download latest version of algoDEA plugin zip file from[ https://github.com/blox
 
 ![](.gitbook/assets/manual-install-restart-ide.png)
 
+[![algoDEA - Manual Installation](https://img.youtube.com/vi/jjhEu-gjjhE/0.jpg)](https://youtu.be/jjhEu-gjjhE)
