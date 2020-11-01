@@ -2,7 +2,7 @@
 
 ## Download algoDEA plugin binary
 
-Download latest version of algoDEA plugin zip file from[ https://github.com/bloxbean/algodea/releases](https://github.com/bloxbean/algodea/releases)
+Download the latest version of algoDEA plugin zip file from [ https://github.com/bloxbean/algodea/releases](https://github.com/bloxbean/algodea/releases)
 
 ### Installation
 
