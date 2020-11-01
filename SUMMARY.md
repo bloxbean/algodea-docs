@@ -4,4 +4,5 @@
 * [Overview](overview.md)
 * [Installation - Manual](installation-manual.md)
 * [Create Project - Stateful Smart Contract](create-project-stateful-smart-contract.md)
+* [Create Project - Stateless Smart Contract](create-project-stateless-smart-contract.md)
 
