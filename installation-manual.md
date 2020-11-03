@@ -4,6 +4,12 @@
 
 Download the latest version of algoDEA plugin zip file from [ https://github.com/bloxbean/algodea/releases](https://github.com/bloxbean/algodea/releases)
 
+### Supported IntelliJ version  \(2020.2 and above\)
+
+* IntelliJ IDEA Community
+* IntelliJ IDEA Ultimate
+* IntelliJ IDEA Educational
+
 ### Installation
 
 * Start IntelliJ IDEA \(2020.2 and above\)
