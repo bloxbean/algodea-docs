@@ -29,5 +29,5 @@ Download the latest version of algoDEA plugin zip file from [ https://github.com
 
 ### Video
 
-[![algoDEA - Manual Installation](https://img.youtube.com/vi/jjhEu-gjjhE/0.jpg)](https://www.youtube.com/watch?v=jjhEu-gjjhE)
+{% embed url="https://youtu.be/jjhEu-gjjhE" %}
 
