@@ -9,6 +9,7 @@
 * [Algorand Project Structure](algorand-project-structure.md)
 * [Compile TEAL Program](compile-teal-program.md)
 * [Import an existing project](import-an-existing-project.md)
+* [Variables/Placeholders in TEAL program](variables-placeholders-in-teal-program.md)
 
 ## Stateful Smart Contract
 
