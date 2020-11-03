@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [algoDEA - Algorand IntelliJ Plugin](README.md)
 * [Overview](overview.md)
 * [Installation using JetBrains Plugin Repository](installation-using-jetbrains-plugin-repository.md)
 * [Installation - Manual](installation-manual.md)
