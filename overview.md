@@ -1,8 +1,8 @@
 # Overview
 
-## algoDEA - Algorand IntelliJ IDEA plugin
+## algoDEA
 
-"algoDEA" IntelliJ IDEA plugin provides end to end development lifecycle on Algorand blockchain. Using this plugin, developer can create and test both stateless and stateful smart contract directly from their IntelliJ IDE. It also provides support for ASA creation, management and transfer.
+"algoDEA"  provides end to end development lifecycle on Algorand blockchain using IntelliJ IDE. Using this plugin, developer can create and test both stateless and stateful smart contract directly from their IntelliJ IDE. It also provides support for ASA creation, management and transfer.
 
 The account management module in the plugin provides a simple way for the developers to manage their test accounts in one place.
 
