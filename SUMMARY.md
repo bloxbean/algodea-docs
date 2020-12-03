@@ -33,3 +33,7 @@
 
 * [Create, Manage & Transfer](algorand-standard-assets/create-manage-and-transfer.md)
 
+## Atomic Transfer
+
+* [Create Atomic Transfer](atomic-transfer/create-atomic-transfer.md)
+
