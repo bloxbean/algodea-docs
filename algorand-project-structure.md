@@ -2,7 +2,7 @@
 
 The Algorand project's standard directory layout :
 
-![](.gitbook/assets/project-structure.png)
+![](.gitbook/assets/directory_structure.png)
 
 | Directory / File | Description |
 | :--- | :--- |
