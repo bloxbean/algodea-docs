@@ -29,7 +29,7 @@ Using this feature, developers can create & manage both standard and multi-signa
 
 ## Node Configuration
 
-Developer can add or configure one or more Algorand Node inside the IDE. The supported node types are custom Algorand Node, Purestake.io node and Sandbox.
+Developers can add or configure one or more Algorand Node inside their IDE. The supported node types are custom Algorand Node, Purestake.io node and Sandbox.
 
 ![Node Configuration](images/node-config.png)
 
@@ -46,18 +46,22 @@ Below are the few key features supported in the editor for TEAL file type.
 
 ## PyTeal Support
 
-Not only TEAL file, developer can create PyTeal files and use them in stateless or stateful smart contract. 
+Not only TEAL file, developers can create PyTeal files and use them in stateless or stateful smart contract. 
 
-With "PyTEAL Compile" option, a PyTEAL file can be easily compiled. All editor level supports are enabled by the default Python plugin in IntelliJ IDE.
+With "PyTeal Compile" option, a PyTeal file can be easily compiled. All editor level supports are enabled by the default Python plugin in IntelliJ IDE.
 
 ![PyTeal](images/pyteal.png)
 
 ## Stateless Contract
 
-Developer can easily create, test stateless smart contract directly inside their IDE. The plugin comes with many out-of-box stateless smart contract
+Developers can easily create, test stateless smart contract directly inside their IDE. The plugin comes with many out-of-box stateless smart contract
 templates. 
 
 ![Stateless Contract](images/stateless.png)
+
+A dedicated user interface simplifies the creation of logic Signature and sending a transaction signed with logic signature. 
+
+![Stateless Contract](images/logicsig.png)
 
 ## Stateful Contract
 
@@ -67,7 +71,7 @@ The plugin supports full lifecycle of stateful smart contract. All types of stat
 
 ## Payment Transaction
 
-Using this feature, developer can easily transfer Algo or any ASA from one account address to another. It simplifies the complexity of creating, submitting and monitoring a payment transaction through a simplified user
+Using this feature, developers can easily transfer Algo or any ASA from one account address to another. It simplifies the complexity of creating, submitting and monitoring a payment transaction through a simplified user
 interface. 
 
 ![Payment Transaction](images/payment.png)
@@ -94,7 +98,7 @@ Using Dry Run support, developer can easily debug a stateful contract call or st
 
 # Getting Started Video
 
-To see AlgoDEA plugin in action, check out this getting started video.
+To see AlgoDEA plugin in action, check out this "Getting started" video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sah1z0BinW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe> 
