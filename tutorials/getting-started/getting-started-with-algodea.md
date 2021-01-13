@@ -1,7 +1,7 @@
 # Overview
 
-Algorand is a public blockchain and protocol that aims to deliver decentralization, scale and security for all participants. It provides various unique features like ASA, Atomic Transfers, Stateless,
-Stateless Smart Contract and many more.
+Algorand is a public blockchain and protocol that aims to deliver decentralization, scale and security for all participants. It provides various unique features like ASA, Atomic Transfers, Stateless &
+Stateful Smart Contract and many more.
 
 AlgoDEA IntelliJ plugin provides end to end development life-cycle on Algorand blockchain using IntelliJ IDE.
 
@@ -94,7 +94,7 @@ Using "Export Transaction" and "Export Signed Transaction", developer can serial
 
 ## Dry run
 
-Using Dry Run support, developer can easily debug a stateful contract call or stateless contract result. This feature is also available for contract calls in Atomic Transfer.
+Using Dry Run support, developers can easily debug stateful or stateless contract calls. This feature is also available for contract calls in Atomic Transfer.
 
 # Getting Started Video
 
@@ -102,6 +102,8 @@ To see AlgoDEA plugin in action, check out this "Getting started" video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sah1z0BinW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe> 
+
+[![Getting started with AlgoDEA](https://img.youtube.com/vi/sah1z0BinW0/0.jpg)](https://www.youtube.com/watch?v=sah1z0BinW0)
 
 # Resources
 
