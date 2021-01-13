@@ -31,6 +31,8 @@ Using this feature, developers can create & manage both standard and multi-signa
 
 Developer can add or configure one or more Algorand Node inside the IDE. The supported node types are custom Algorand Node, Purestake.io node and Sandbox.
 
+![Node Configuration](images/node-config.png)
+
 ## TEAL Support 
 
 The plugin supports various editor level features for TEAL files. 
@@ -40,36 +42,47 @@ Below are the few key features supported in the editor for TEAL file type.
 - Syntax Highlighter and Error Highlighting
 - Op-Code usage help
 
+![Editor](images/code-completion.png)
+
 ## PyTeal Support
 
 Not only TEAL file, developer can create PyTeal files and use them in stateless or stateful smart contract. 
 
 With "PyTEAL Compile" option, a PyTEAL file can be easily compiled. All editor level supports are enabled by the default Python plugin in IntelliJ IDE.
 
+![PyTeal](images/pyteal.png)
 
 ## Stateless Contract
 
 Developer can easily create, test stateless smart contract directly inside their IDE. The plugin comes with many out-of-box stateless smart contract
 templates. 
 
-### Stateful Contract
+![Stateless Contract](images/stateless.png)
+
+## Stateful Contract
 
 The plugin supports full lifecycle of stateful smart contract. All types of stateful smart contract transactions are supported through a dedicated user interface. 
 
+![Stateful Contract](images/stateful.png)
 
 ## Payment Transaction
 
 Using this feature, developer can easily transfer Algo or any ASA from one account address to another. It simplifies the complexity of creating, submitting and monitoring a payment transaction through a simplified user
 interface. 
 
+![Payment Transaction](images/payment.png)
+
 ## Atomic Transfer 
 
 The creation of Atomic Transfer transaction is a multi-step process. With an intuitive user interface, the plugin simplifies the process for creation & submission of Atomic Transfer transaction.
+
+![Atomic Transfers](images/atomic-transfer.png)
 
 ## Asset Management
 
 The plugin supports full lifecycle of the Algorand Standard Asset inside IntelliJ IDE. A new ASA can be easily created, managed through "Asset Management" UI. The standard "Transfer" UI supports both Algo and Algorand Standard Assets.
 
+![Asset Management](images/asset-mgmt.png)
 
 ## Export Transaction
 
@@ -83,14 +96,14 @@ Using Dry Run support, developer can easily debug a stateful contract call or st
 
 To see AlgoDEA plugin in action, check out this getting started video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sah1z0BinW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sah1z0BinW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe> 
 
 # Resources
 
-Detailed step-by-step guides and videos can be found at [AlgoDEA Docs site](https://algodea-docs.bloxbean.com/)
+Detailed step-by-step guides and videos can be found at [AlgoDEA Docs site](https://algodea-docs.bloxbean.com/).
 
-The plugin source code can be found at [AlgoDEA GitHub](https://github.com/bloxbean/algodea)
+The plugin source code can be found at [AlgoDEA GitHub](https://github.com/bloxbean/algodea).
 
 
  
