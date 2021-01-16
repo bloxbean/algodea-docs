@@ -21,7 +21,7 @@ The plugin checks if "algo-package.json" file is available at the project root o
 
 3. Select the existing source root folder. Click next.
 
-![](.gitbook/assets/import-project%20%281%29.png)
+![](.gitbook/assets/import-project%20%281%29%20%281%29.png)
 
 ![](.gitbook/assets/import-project-next.png)
 
