@@ -4,9 +4,11 @@ The algoDEA Algorand Integration plugin is available on JetBrain's official plug
 
 ### Supported IntelliJ version  \(2020.2 and above\)
 
-* IntelliJ IDEA Community
-* IntelliJ IDEA Ultimate
-* IntelliJ IDEA Educational
+* IntelliJ IDEA Community / Ultimate / Educational
+* PyCharm
+* GoLand
+* WebStorm
+* PhpStorm
 
 ### Installation
 
