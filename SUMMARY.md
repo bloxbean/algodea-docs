@@ -52,3 +52,16 @@
 * [Create or Configure a Stateful Contract with PyTeal Programs](create-or-configure-a-stateful-contract-with-pyteal-programs.md)
 * [Compile PyTeal File](compile-pyteal-file.md)
 
+## Debugger Support \(Beta\) <a id="debugger-support"></a>
+
+* [Overview](debugger-support/overview.md)
+* [Debugger Configuration](debugger-support/debugger-configuration.md)
+* [Debug Stateless Contract](debugger-support/debug-stateless-contract.md)
+* [Debug Stateful Smart Contract](debugger-support/debug-stateful-smart-contract.md)
+* [Debug Stateful Contract using Dry Run Dump file](debugger-support/debug-stateful-contract-using-dry-run-dump-file.md)
+* [Debug Atomic Transfer](debugger-support/debug-atomic-transfer.md)
+
+---
+
+* [Debug Atomic Transfer using Dry Run Dump file](debug-atomic-transfer-using-dry-run-dump-file.md)
+
