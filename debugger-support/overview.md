@@ -19,7 +19,7 @@ Alternatively, developer can directly use the dry run dump file and debug. The s
 * Create debugger context \(dry run dump\) file from the supported transaction UI
 * Right click on the dry run dump file and select "Start TEAL debugger" to start the debugger.
 
-**Note:** IDE automatically finds the Chrome executable and opens it. But this feature is only tested on Mac OS and Windows. For Linux, you may need to configure the Chrome executable path in the "Debugger Configuration" UI.
+**Note:** IDE automatically finds the Chrome executable and opens it. But this feature is only tested on **Mac OS** and **Windows**. For **Linux**, you may need to configure the Chrome executable path in the "Debugger Configuration" UI.
 
 
 
