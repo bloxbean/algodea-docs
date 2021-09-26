@@ -41,10 +41,7 @@ The followings are the list of features currently supported by the plugin.
   * Creat, Modify, OptIn, Freeze, UnFreeze, Revoke, Destroy
 * Transfer
   * Algo, ASA
-
-**TODO**
-
-* TEAL debugger
-* PyTEAL support
 * Atomic Transfer
+* TEAL Debugger
+* PyTEAL support
 
